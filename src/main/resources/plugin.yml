@@ -1,0 +1,7 @@
+api-version: 1.13
+name: FusionBoss
+version: 1.0.0
+main: com.fusionboss.BossMain
+commands:
+  fusionboss:
+    description: fusionboss
